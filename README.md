@@ -1,6 +1,8 @@
 Airbrake
 ========
 
+### Note: This is Airbrake version 3.1.2, with an added patch to avoid several deprecation warnings for Rails 5
+
 This is the notifier gem for integrating apps with [Airbrake](http://airbrake.io).
 
 When an uncaught exception occurs, Airbrake will POST the relevant data
